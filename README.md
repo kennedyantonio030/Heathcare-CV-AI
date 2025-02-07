@@ -52,7 +52,6 @@ There can also be unintended bias in these algorithms that can exacerbate social
 
 ## Following are some ideas that have the potential to improve traditional healthcare systems:
 
-# [Brain tumor segmentation using MRI](https://github.com/HarshShah03325/AI-for-healthcare/tree/main/MRI%20Segmentation)
 ![](main_assets/heading.png)
 
 ## Description
